@@ -1,0 +1,53 @@
+* {
+    background-color:skyblue;
+}
+.bodyContent {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.totalPrice {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#footer {
+    display: flex;
+    justify-content: space-evenly;
+}
+#title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.goomba {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+.bobomb {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+.cheep {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+.submitButton {
+    display: flex;
+    background-color: lightslategrey;
+    margin: 5px;
+    align-self: center;
+}
+.totalh3 {
+    margin: 5px;
+}
+.sButton {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+

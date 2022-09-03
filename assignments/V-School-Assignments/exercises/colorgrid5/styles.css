@@ -1,0 +1,117 @@
+* {
+    box-sizing: border-box;
+}
+.peach {
+    height: 100px;
+    width: 842px;
+    background-color: #F5C6D6;
+    
+}
+.pink1 {
+    height: 100px;
+    width: 200px;
+    background-color: #EE2E84;
+    display: inline-block;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.pink2 {
+    height: 100px;
+    width: 200px;
+    background-color: #EE2E84;
+    display: inline-block;
+    margin-right: 10px;
+}
+.pink3 {
+    height: 100px;
+    width: 200px;
+    background-color: #EE2E84;
+    display: inline-block;
+    margin-right: 10px;
+}
+.pink4 {
+    height: 100px;
+    width: 200px;
+    background-color: #EE2E84;
+    display: inline-block;
+    margin-right: 10px;
+}
+.teal1 {
+    height: 100px;
+    width: 415px;
+    background-color: #85CFD8;
+    display: inline-block;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.teal2 {
+    height: 100px;
+    width: 415px;
+    background-color: #85CFD8;
+    display: inline-block;
+}
+.green {
+    height: 100px;
+    width: 626px;
+    background-color: #8DC63F;
+    margin-top: 10px;
+    margin-right: 10px;
+    display: inline-block
+}
+.brown {
+    height: 100px;
+    width: 206px;
+    background-color: #E76E34;
+    display: inline-block;
+}
+
+@media only screen and (max-width: 768px) {
+    * {
+        display: block;
+    }
+    .peach {
+        width: auto;
+        display: block;
+        margin: 2px;
+    }
+    .pink1 {
+        width: auto;
+        display: block;
+        margin: 2px;
+    }
+    .pink2 {
+        width: auto;
+        display: block;
+        margin: 2px;
+    }
+    .pink3 {
+        width: auto;
+        display: block;
+        margin: 2px;
+    }
+    .pink4 {
+        width: auto;
+        display: block;
+        margin: 2px;
+    }
+    .teal1 {
+        width: auto;
+        display: block;
+        margin: 2px;
+    }
+    .teal2 {
+        width: auto;
+        display: block;
+        margin: 2px;
+    }
+    .green {
+        width: auto;
+        display: block;
+        margin: 2px;
+    }
+    .brown {
+        width: auto;
+        display: block;
+        margin: 2px;
+    }
+}

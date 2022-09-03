@@ -1,0 +1,38 @@
+* {
+    margin: 1;
+    text-align: center;
+}
+
+.friendArray {
+    background-color: black;
+
+}
+.petName {
+    color: orangered;
+
+}
+.petBreed {
+    color: palevioletred;
+}
+.personName {
+    color: red;
+}
+.personAge {
+    color: rebeccapurple
+}
+.friend {
+    background-color: purple;
+}
+
+.Ben {
+    background-color: gray
+}
+.Bob {
+    background-color: hotpink;
+}
+.Marcus {
+    background-color: lawngreen;
+}
+.Jacob {
+    background-color: lightsalmon;
+}

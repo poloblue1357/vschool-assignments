@@ -1,0 +1,52 @@
+.goomba {
+    height: 250px;
+    width: 250px;
+}
+.bob {
+    height: 300px;
+    width: 300px;
+}
+.cheep {
+    height: 300px;
+    width: 300px;
+}
+.images {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px;
+}
+.ulist {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 15px;
+
+}
+.h1 {
+    text-align: center;
+}
+.h2 {
+    text-align: center;
+}
+.totals {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px;
+}
+.button {
+    justify-content: center;
+    display: flex;
+    margin: 30px;
+}
+.overall {
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+}
+.footer {
+    display: flex;
+    justify-content: space-evenly;
+}
+.body {
+    font: arial;
+    background-color: mediumseagreen;
+}

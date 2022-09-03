@@ -1,0 +1,31 @@
+{
+    
+        "appetizers": [{
+            "Name": "Spicy Wings",
+            "Ingredients": ["Wings", "Frank's Hot Sauce", "salt"],
+   
+            "Description": "You'll love our spicy, best-selling wings!"
+        }],
+    
+    
+        "cold sandwiches": [{
+            "Name": "Turkey Sandwich", 
+            "Ingredients": ["Turkey", "Bread", "Cheese", "Lettuce"],
+            "Description": "This is amazing!"
+        }], 
+        "hot sandwiches": [{
+            "Name": "Philly Cheesesteak",
+            "Ingredients": ["Meat", "Cheese", "bread", "peppers"],
+            "description": "Succulent sandwich."
+        }],
+        "desserts": [{
+            "Name": "ice cream",
+            "Ingredients": ["ice", "cream", "milk"],
+            "description": "ice cold, like your ex's heart."
+        }],
+        "drinks": [{
+            "name": "root beer",
+            "ingredients": ["roots", "beer"],
+            "description": "refreshingly smooth on a hot day."
+        }]
+}

@@ -1,0 +1,11 @@
+.squareContainer {
+    display: grid;
+    grid-template-columns: 100px 100px;
+    gap: 10px;
+}
+.square {
+    height: 80px;
+    width: 80px;
+    border: 2px black solid;
+    margin: 10px;
+}

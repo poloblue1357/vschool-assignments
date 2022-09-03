@@ -1,0 +1,421 @@
+.class {
+    background-color: blue;
+    height: 150px;
+    width: 100px;
+    position: relative;
+    padding: 10px;
+    border: 5px;
+    display: inline-block;
+}
+
+.class2 {
+    background-color: white;
+    height: 150px;
+    width: 100px;
+    position: relative;
+    padding: 10px;
+    border: 5px;;
+    display: inline-block;
+    
+}
+
+.class3 {
+    background-color: red;
+    height: 150px;
+    width: 100px;
+    position: relative;
+    padding: 10px;
+    border: 5px;
+    display: inline-block;  
+}
+
+.container {
+    border: black 2px solid;
+    height: 170px;
+    width:  368px;
+    position: relative;
+}
+
+.class4 {
+    background-color: black;
+    height: 100px;
+    width: 350px;
+    position: relative;
+    display: block;
+
+}
+.class5 {
+    background-color: red;
+    height: 100px;
+    width: 350px;
+    position: relative;
+    display: block;
+}
+.class6 {
+    background-color: gold;
+    height: 100px;
+    width: 350px;
+    position: relative;
+    display: block;
+}
+.container2 {
+    border: black 2px solid;
+    height: 300px;
+    width: 350px;
+    position: relative;
+}
+.class7 {
+    background-color: red;
+    height: 150px;
+    width: 400px;
+    position: relative;
+    display: block;
+}
+.class8 {
+    background-color: green;
+    height: 150px;
+    width: 400px;
+    position: relative;
+    display: block;
+}
+.container3 {
+    border: black 2px solid;
+    height: 300px;
+    width: 400px;
+    position: relative;
+}
+.class9 {
+    background-color: red;
+    height: 300px;
+    width: 300px;
+    position: relative;
+    display: block;
+}
+.class10 {
+    background-color: white;
+    height: 190px;
+    width: 60px;
+    position: absolute;
+    display: block;
+    top: 1010px;
+    left: 130px;
+}
+.class11 {
+    background-color: white;
+    height: 60px;
+    width: 190px;
+    position: absolute;
+    display: block;
+    top: 1070px;
+    left: 60px;
+}
+.container4 {
+    border: black 2px solid;
+    height: 300px;
+    width: 300px;
+    
+}
+.class12 {
+    background-color: blue;
+    height: 300px;
+    width: 500px;
+    position: relative;
+    display: block;
+}
+.class13 {
+    background-color: gold;
+    height: 60px;
+    width: 500px;
+    position: absolute;
+    display: block;
+    top: 1430px;  
+}
+.class14 {
+    background-color: gold;
+    height: 300px;
+    width: 60px;
+    position: absolute;
+    display: block;
+    top: 1312px;
+    left: 140px;
+}
+.container5 {
+    border: black 2px solid;
+    height: 300px;
+    width: 500px;
+}
+.class15 {
+    background-color: red;
+    height: 100px;
+    width: 500px;
+    position: relative;
+    display: block;
+}
+.class16 {
+    background-color: blue;
+    height: 100px;
+    width: 500px;
+    position: relative;
+    display: block;
+}
+.class17 {
+    background-color: green;
+    height: 100px;
+    width: 500px;
+    position: relative;
+    display: block;
+}
+.class18 {
+    background-color: white;
+    height: 20px;
+    width: 500px;
+    position: absolute;
+    display: block;
+    top: 1768px;  
+}
+.class19 {
+    background-color: white;
+    height: 20px;
+    width: 500px;
+    position: absolute;
+    display: block;
+    top: 1850px;  
+}
+.container6 {
+    border: black 2px solid;
+    height: 300px;
+    width: 500px;
+}
+.class20 {
+    background-color: red;
+    height: 300px;
+    width: 500px;
+    position: relative;
+    display: block;
+}
+.class21 {
+    background-color: white;
+    height: 150px;
+    width: 230px;
+    position: absolute;
+    display: block;
+    top: 2028px;
+}
+.class22 {
+    background-color: red;
+    height: 109px;
+    width: 30px;
+    position: absolute;
+    display: block;
+    top: 2043px;
+    left: 105px;
+}
+.class23 {
+    background-color: red;
+    height: 30px;
+    width: 109px;
+    position: absolute;
+    display: block;
+    top: 2081px;
+    left: 65px;
+}
+.container7 {
+    border: black 2px solid;
+    height: 300px;
+    width: 500px;
+}
+.class24 {
+    background-color: white;
+    height: 300px;
+    width: 500px;
+    position: relative;
+    display: block;
+}
+.dot {
+    background-color: red;
+    height: 217px;
+    width: 217px;
+    position: absolute;
+    display: block;
+    top: 2431px;
+    left: 150px;
+    border-radius: 50%;
+
+}
+.container8 {
+    border: black 2px solid;
+    height: 300px;
+    width: 500px;
+}
+.class25 {
+    background-color: blue;
+    height: 30px;
+    width: 500px;
+    position: relative;
+    display: block;
+}
+.class26 {
+    background-color: white ;
+    height: 30px;
+    width: 500px;
+    position: relative;
+    display: block;
+}
+.class27 {
+    background-color: blue;
+    height: 30px;
+    width: 500px;
+    position: relative;
+    display: block;
+}
+.class28 {
+    background-color: white;
+    height: 30px;
+    width: 500px;
+    position: relative;
+    display: block;
+} 
+.class29 {
+    background-color:blue ;
+    height: 30px;
+    width: 500px;
+    position: relative;
+    display: block;
+}
+.class30 {
+    background-color: white ;
+    height: 30px;
+    width: 500px;
+    position: relative;
+    display: block;
+}
+.class31 {
+    background-color: blue;
+    height: 30px;
+    width: 500px;
+    position: relative;
+    display: block;
+}
+.class32 {
+    background-color:    white ;
+    height: 30px;
+    width: 500px;
+    position: relative;
+    display: block;
+}
+.class33 {
+    background-color: blue;
+    height: 30px;
+    width: 500px;
+    position: relative;
+    display: block;
+}
+.class34 {
+    background-color: blue;
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    display: block;
+    top: 2742px;
+}
+.class35{ 
+    background-color: white;
+    height: 30px;
+    width: 150px;
+    position: absolute;
+    display: block;
+    top: 2802px;
+}
+.class36 {
+    background-color: white;
+    height: 150px;
+    width: 30px;
+    position: absolute;
+    display: block;
+    top: 2742px;
+    left: 69px;
+}
+.container9 {
+    border: black 2px solid;
+    height: 270px;
+    width: 500px;
+}
+.class37 {
+    background-color: orange;
+    height: 100px;
+    width: 500px;
+    position: relative;
+    display: block;
+}
+.class38 {
+    background-color: white;
+    height: 100px;
+    width: 500px;
+    position: relative;
+    display: block;
+}
+.class39 {
+    background-color: green;
+    height: 100px;
+    width: 500px;
+    position: relative;
+    display: block;
+}
+.class40 {
+    background-color: orange;
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    display: block;
+    top: 3179px;
+    left: 208px;
+    border-radius: 50%;
+}
+.container10 {
+    border: black 2px solid;
+    height: 300px;
+    width: 500px;
+} 
+.class41 {
+    background-color: red;
+    height: 300px;
+    width: 500px;
+    position: relative;
+    display: block;
+}
+.class42 {
+    background-color: green;
+    height: 180px;
+    width: 372px;
+    position: absolute;
+    display: block;
+    top: 3490px;
+    left: 68px;
+}
+.class43 {
+    background-color: white;
+    height: 130px;
+    width: 100px;
+    position: absolute;
+    display: block;
+    top: 3516px;
+    left: 215px;
+    border-radius: 50%;
+}
+.class44 {
+    background-color: green;
+    height: 131px;
+    width: 120px;
+    position: absolute;
+    display: block;
+    top: 3516px;
+    left: 235px;
+    border-radius: 50%;
+}
+.container11 {
+    border: black 2px solid;
+    height: 300px;
+    width: 500px;
+}
+ 
+

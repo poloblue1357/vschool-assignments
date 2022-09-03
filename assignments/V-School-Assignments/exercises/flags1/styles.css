@@ -1,0 +1,212 @@
+.blue {
+    background-color: navy;
+    width: 75px;
+    height: 150px;
+    position: relative;
+    padding: 10px;
+    border: 5px;
+    display: inline-block;
+}
+
+.white {
+    background-color: white;
+    width: 75px;
+    height: 150px;
+    position: relative;
+    padding: 10px;
+    border: 5px;
+    display: inline-block;
+}
+
+.red {
+    background-color: red;
+    width: 75px;
+    height: 150px;
+    position: relative;
+    padding: 10px;
+    border: 5px;
+    display: inline-block;
+}
+.Gblack {
+    background-color: black;
+    width: 300px;
+    height: 75px;
+    position: relative;
+    display: block;
+}
+.Gred {
+    background-color: red;
+    width: 300px;
+    height: 75px;
+    position: relative;
+    display: block;
+}
+.Ggold {
+    background-color: gold;
+    width: 300px;
+    height: 75px;
+    position: relative;
+    display: block;
+}
+.container {
+    border: 2px black solid;
+    height: 150px;
+    width: 300px;
+}
+.Mwhite {
+    background-color: white;
+    width: 100px;
+    height: 150px;
+    float: left;
+}
+.Mred{
+    background-color: red;
+    left: 100px;
+    width: 300px;
+    height: 75px;
+}
+.Mgreen {
+    background-color: green;
+    left: 100px;
+    width: 300px;
+    height: 75px;
+}
+.Sred {
+    background-color: red;
+    height: 300px;
+    width: 300px;
+    position: relative;
+    display: inline-block;
+}
+.Swhite {
+    background-color: white;
+    height: 177px;
+    width: 50px;
+    left: 128px;
+    top: 771px;
+    position: absolute;
+    display: inline-block;
+}
+.Swhite1 {
+    background-color: white;
+    height: 50px;
+    width: 177px;
+    left: 64px;
+    top: 835px;
+    position: absolute;
+    display: inline-block;
+}
+.Sblue {
+    background-color: blue;
+    height: 300px;
+    width: 400px;
+    position: relative;
+    display: inline-block;
+}
+.Syellow {
+    background-color: yellow;
+    height: 68px;
+    width: 400px;
+    top: 1153px;
+    position: absolute;
+    display: block;
+}
+.Syellow1 {
+    background-color: yellow;
+    height: 300px;
+    width: 68px;
+    left: 129px;
+    top: 1045px;
+    position: absolute;
+    display: block;
+}
+.gamR {
+    background-color: red;
+    height: 100px;
+    width: 400px;
+    position: relative;
+    display: block;
+}
+.gamB {
+    background-color: blue;
+    height: 100px;
+    width: 400px;
+    position: relative;
+    display: block;
+}
+.gamG {
+    background-color: green;
+    height: 100px;
+    width: 400px;
+    position: relative;
+    display: block;
+}
+.gamW {
+    background-color: white;
+    height: 20px;
+    width: 400px;
+    top: 1485px;
+    position: absolute;
+    display: block;
+}
+.gamW2 {
+    background-color: white;
+    height: 20px;
+    width: 400px;
+    top: 1565px;
+    position: absolute;
+    display: block; 
+}
+.container2 {
+    border: 2px black solid;
+    height: 300px;
+    width: 400px;
+}
+.japW {
+    background-color: white;
+    height: 300px;
+    width: 400px;
+    position: relative;
+    display: block;
+}
+.japR {
+    background-color: red;
+    height: 140px;
+    width: 140px;
+    left: 133px;
+    top: 1802px;
+    border-radius: 50%;
+    position: absolute;
+    display: block;
+}
+.nigO {
+    background-color: orange;
+    height: 100px;
+    width: 400px;
+    position: relative;
+    display: block;
+}
+.nigW {
+    background-color: white;
+    height: 100px;
+    width: 400px;
+    position: relative;
+    display: block;
+}
+.nigG {
+    background-color: green;
+    height: 100px;
+    width: 400px;
+    position: relative;
+    display: block;
+}
+.nigO1 {
+    background-color: orange;
+    height: 70px;
+    width: 70px;
+    left: 161px;
+    top: 2175px;
+    border-radius: 50%;
+    position: absolute;
+    display: block;
+}

@@ -1,0 +1,49 @@
+* {
+    display: flex;
+    padding: 5px;
+    align-items: flex-start;
+    flex-direction: column;
+}
+.head {
+    height: 0px;
+    width: 0px;
+}
+input[name="add1"] {
+    margin: 10px;
+}
+input[name="add2"] {
+    margin: 10px;
+}
+.submitAdd {
+    margin: 10px;
+}
+.add {
+    background-color: aqua;
+    border: 2px solid black;
+}
+input[name="sub1"] {
+    margin: 10px;
+}
+input[name="sub2"] {
+    margin: 10px;
+}
+.submitSub {
+    margin: 10px;
+}
+.sub {
+    background-color: burlywood;
+    border: 2px solid black;
+}
+input[name="mul1"] {
+    margin: 10px;
+}
+input[name="mul2"] {
+    margin: 10px;
+}
+.submitMul {
+    margin: 10px;
+}
+.mul {
+    background-color:darkorange;
+    border: 2px solid black;
+}

@@ -1,0 +1,52 @@
+.header {
+    background-image: url("https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/3-modern-white-office-desk-top-table-with--and-other-supplies-worachat-nannuan.jpg");
+}
+.uList {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.h3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bList {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.oPostsButton {
+    background-color: yellow;
+    padding: 10px;
+    width:fit-content;
+    margin-left: 525px;
+}
+.images {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.images > img {
+    height: 50px;
+}
+.footerInfo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.hRule {
+    border: 0;
+    clear:both;
+    display:block;
+    width: 96%;               
+    background-color:black;
+    height: 2px;
+}

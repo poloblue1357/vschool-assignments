@@ -1,0 +1,129 @@
+@media only screen and (max-width: 768px) {
+.lightpink {
+    background-color: #F5C6D6;
+    height: 50px;
+    width: 400px;
+    border: 1px white solid;
+}
+.pink {
+    background-color: #EE2E84;
+    height: 50px;
+    width: 400px;
+    border: 1px white solid;
+}
+.pink1 {
+    background-color: #EE2E84;
+    height: 50px;
+    width: 400px;
+    border: 1px white solid;
+}
+.pink2 {
+    background-color: #EE2E84;
+    height: 50px;
+    width: 400px;
+    border: 1px white solid;
+}
+.pink3 {
+    background-color: #EE2E84;
+    height: 50px;
+    width: 400px;
+    border: 1px white solid;
+}
+.teal {
+    background-color: #85CFD8;
+    height: 50px;
+    width: 400px;
+    border: 1px white solid;
+}
+.teal1 {
+    background-color: #85CFD8;
+    height: 50px;
+    width: 400px;
+    border: 1px white solid;
+}
+.green {
+    background-color: #8DC63F;
+    height: 50px;
+    width: 400px;
+    border: 1px white solid;
+}
+.orange {
+    background-color: #E76E34;
+    height: 50px;
+    width: 400px;
+    border: 1px white solid;
+}
+}
+
+@media only screen and (min-width: 769px) {
+
+.lightpink {
+    background-color: #F5C6D6;
+    height: 50px;
+    width: 430px;
+    border: 5px white solid;
+}
+.pinkfloat {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    width: 400px;
+}
+.pink {
+    background-color: #EE2E84;
+    height: 50px;
+    width: 100px;
+    border: 5px white solid;
+}
+.pink1 {
+    background-color: #EE2E84;
+    height: 50px;
+    width: 100px;
+    border: 5px white solid;
+}
+.pink2 {
+    background-color: #EE2E84;
+    height: 50px;
+    width: 100px;
+    border: 5px white solid;
+}
+.pink3 {
+    background-color: #EE2E84;
+    height: 50px;
+    width: 100px;
+    border: 5px white solid;
+}
+.tealfloat {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 440px;
+}
+.teal {
+    background-color: #85CFD8;
+    height: 50px;
+    width: 210px;
+    border: 5px white solid;
+}
+.teal1 {
+    background-color: #85CFD8;
+    height: 50px;
+    width: 210px;
+    border: 5px white solid;
+}
+.bottomfloat {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    width: 430px;
+}
+.green {
+    background-color: #8DC63F;
+    height: 50px;
+    width: 320px;
+    border: 5px white solid;
+}
+.orange {
+    background-color: #E76E34;
+    height: 50px;
+    width: 100px;
+    border: 5px white solid;
+}
+}

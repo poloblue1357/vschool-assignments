@@ -1,0 +1,246 @@
+.France {
+    border: 2px black solid;
+    
+}
+.frenchblue {
+    background-color:  #002495;
+    position: relative;
+    display: inline-block;
+    width: 33.15%;
+    padding-bottom: 66.66%;
+    
+}
+
+.frenchwhite {
+    background-color: #FFFFFF;
+    position: relative;
+    display: inline-block;
+    width: 33.15%;
+    padding-bottom: 66.66%;
+    
+}
+
+.frenchred {
+    background-color: #ED2938;
+    position: relative;
+    display: inline-block;
+    width: 33.16%;
+    padding-bottom: 66.66%;
+    
+}
+.Germany {
+    border: 2px black solid;
+}
+.germanyblack {
+    background-color: #000000;
+    position: relative;
+    display: block;
+    padding-bottom: 60%;
+    width: 100%;
+}
+
+.germanyred {
+    background-color: #DE0002;
+    position: relative;
+    display: block;
+    padding-bottom: 60%;
+    width: 100%;
+}
+
+.germanyyellow {
+    background-color: #FFCE00;
+    position: relative;
+    display: block;
+    padding-bottom: 60%;
+    width: 100%;
+}
+
+.Madagascar {
+    border: 2px black solid;
+    height: 200px;
+    width: 300px;
+}
+
+.madawhite {
+    background-color: #FFFFFF;
+    float: left;
+    height: 200px;
+    width: 100px;
+}
+
+.madared {
+    background-color: #FC3E32;
+    left: 101px;
+    width: 300px;
+    height: 100px;
+    
+}
+
+.madagreen {
+    background-color: #007E39;
+    left: 101px;
+    width: 300px;
+    height: 100px;
+}
+.Switzerland {
+    border: 2px black solid;
+    height: 100px;
+    width: 100px;
+
+}
+.Sred {
+    background-color: #FF0002;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    position: relative;
+}
+.Swhite {
+    background-color: #FFFFFF;
+    position: absolute;
+    display: inline-block;
+    height: 70px;
+    width: 30px;
+    left: 45px;
+    margin-top: 15px;
+}
+.Swhite1 {
+    background-color: #FFFFFF;
+    position: absolute;
+    display: inline-block;
+    height: 30px;
+    width: 70px;
+    left: 25px;
+    margin-top: 37px;
+}
+.Sweden {
+    border: 2px black solid;
+    width: 800px;
+    height: 500px;
+}
+.Sblue {
+    background-color: #0269A6;
+    position: relative;
+    display: inline-block;
+    width: 800px;
+    height: 500px;
+}
+.Syellow {
+    background-color: #FECC00;
+    position: absolute;
+    display: inline-block;
+    width: 800px;
+    height: 100px;
+    margin-top: 190px;
+    left: 10px;
+}
+.Syellow1 {
+    background-color: #FECC00;
+    position: absolute;
+    display: inline-block;
+    height: 500px;
+    width: 100px;
+    left: 200px;
+}
+.Gambia {
+    border: 2px black solid;
+    width: 300px;
+    height: 210px;
+}
+.Gred {
+    background-color: #CE1127;
+    position: relative;
+    display: inline-block;
+    width: 300px;
+    height: 70px;
+}
+.Gblue {
+    background-color: #0D1D8B;
+    position: relative;
+    display: inline-block;
+    width: 300px;
+    height: 62px;
+}
+.Ggreen {
+    background-color: #3B7827;
+    position: relative;
+    display: inline-block;
+    width: 300px;
+    height: 70px;
+}
+.Gwhite {
+    background-color: #FFFFFF;
+    position: absolute;
+    display: inline-block;
+    width: 300px;
+    height: 20px;
+    left: 10px;
+    margin-top: -75px;
+}
+.Gwhite1 {
+    background-color: #FFFFFF;
+    position: absolute;
+    display: inline-block;
+    width: 300px;
+    height: 20px;
+    left: 10px;
+    margin-top: -17px;
+}
+.Japan {
+    border: 2px solid black;
+    width: 300px;
+    height: 200px;
+}
+.Jwhite {
+    background-color: #FFFFFF;
+    width: 300px;
+    height: 200px;
+    position: relative;
+    display: inline-block;
+}
+.Jred {
+    background-color: #BC022C;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    display: inline-block;
+    position: absolute;
+    left: 110px;
+    margin-top: 50px;
+}
+.Niger {
+    border: 2px solid black;
+    width: 700px;
+    height: 450px;
+}
+.Norange {
+    background-color: #E15307;
+    position: relative;
+    display: inline-block;
+    width: 700px;
+    height: 147px;
+}
+.Nwhite {
+    background-color: #FFFFFF;
+    position: relative;
+    display: inline-block;
+    width: 700px;
+    height: 147px;
+}
+.Ngreen {
+    background-color: #10AF2A;
+    position: relative;
+    display: inline-block;
+    width: 700px;
+    height: 147px;
+}
+.Norange1 {
+    background-color: #E15307;
+    position: absolute;
+    display: inline-block;
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    left: 300px;
+    margin-top: -140px;
+}

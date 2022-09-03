@@ -1,0 +1,46 @@
+div {
+    text-align: center;
+    background-color: rgb(172, 172, 231);
+    
+}
+
+#FirstName {
+    background-color: aliceblue;
+    margin: 20px;
+    
+}
+#LastName {
+    background-color: aliceblue;
+    margin: 20px;
+
+}
+#Age {
+    background-color: aliceblue;
+    margin: 20px;
+
+}
+#male {
+    margin: 20px;
+
+}
+#female {
+    margin: 20px;
+
+}
+select {
+    margin: 30px;
+
+}
+#kosher {
+    margin: 30px;
+}
+#peanut {
+    margin: 30px;
+
+}
+#gluten {
+    margin: 30px;
+}
+#button {
+    background-color: royalblue;
+}

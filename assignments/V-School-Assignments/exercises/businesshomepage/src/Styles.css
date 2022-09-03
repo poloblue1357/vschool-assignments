@@ -1,0 +1,36 @@
+.navigation {
+    text-align: center;
+    display: grid;
+    justify-content: space-evenly;
+    grid-template-columns: 1fr 1fr 1fr;
+    color: red;
+    font-size: 23px;
+}
+.mainpage {
+    background-color: black;
+    color: orange;
+}
+.first {
+    float: left;
+
+}
+.h1 {
+    text-align: center;
+    font-size: 30px;
+}
+.main {
+    font-size: 20px;
+    padding: 5px;
+    
+}
+.paragraph {
+    padding: 5px;
+    float: right;
+}
+.second {
+    height: 75%;
+    width: 95%;
+    margin: 0 2.5% 0 2.5%;
+    padding-top: 10px;
+
+}

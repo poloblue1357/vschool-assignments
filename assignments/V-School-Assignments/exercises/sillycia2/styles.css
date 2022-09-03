@@ -1,0 +1,28 @@
+h1 {
+    color: darkgreen;
+    font-family: Georgia;
+    text-align: center;
+}
+h2 {
+    font-family: Georgia;
+    text-align: center;
+}
+p {
+    line-height: 25px;
+}
+img {
+    float: left;
+    width: 30%;
+    height: 30%;
+    padding: 15px;
+}
+
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+.textBeforeEnd {
+    text-transform: uppercase;
+}

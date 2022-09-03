@@ -1,0 +1,15 @@
+.blocks {
+    /* height: 100px;
+    width: 100px; */
+    display: grid;
+    grid-template-columns: 100px 100px;
+    grid-gap: 4px;
+    /* grid-template-rows: auto auto; */
+}
+.blocks1 {
+    height: 100px;
+    width: 100px;
+    border: 1px black solid;
+    /* grid-template-columns: 100px 100px; */
+    
+}

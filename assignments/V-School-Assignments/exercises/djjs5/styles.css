@@ -1,0 +1,12 @@
+#square {
+    height: 400px;
+    width: 400px;
+    margin: 20px;
+    border: 2px black solid;
+}
+#rectangle {
+    height: 900px;
+    width: 500px;
+    border: 2px black solid;
+    margin: 50px;
+}

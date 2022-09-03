@@ -1,0 +1,39 @@
+
+h1 {
+    text-align: center;
+    border-style: solid;
+    }
+div {
+    display: block;
+    justify-content: center;
+
+}
+h2 {
+    color: black;
+    display: flex;
+    justify-content: center;
+
+    
+}
+span {
+    color:black;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+
+}
+img {
+    height: 220px;
+    width: 340px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+
+   
+}
+body {
+   border-style: solid;
+   column-count: 3;
+   column-width: 20px;
+
+}

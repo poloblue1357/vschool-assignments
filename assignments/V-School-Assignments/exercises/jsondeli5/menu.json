@@ -1,0 +1,62 @@
+{
+    "appetizers": [
+        {
+        "name": "spicy wings", 
+        "ingredients": ["wings", "hot sauce", "salt"],
+        "description": "juicy spicy wangz boi"
+        },
+        {
+        "name": "cheese curds", 
+        "ingredients": ["cheese", "curds"],
+        "description": "deep fried cheese yo"
+        }
+    ],
+    "cold sandwiches": [
+        {
+            "name": "turkey sandwich",
+            "ingredients": ["turkey", "cheese", "bread"],
+            "description": "standard turkey sandwich, delicious"
+        },
+        {
+            "name": "ham sandwich",
+            "ingredients": ["ham", "cheese", "bread"],
+            "description": "same as turkey, but meat is ham"
+        }
+    ],
+    "hot sandwiches": [
+        {
+            "name": "meatballs",
+            "ingredients": ["meatballs", "sauce"],
+            "description": "meatball sub fam"
+        },
+        {
+            "name": "chicken & bacon",
+            "ingredients": ["chicken", "bacon", "bread"],
+            "description": "chicken and bacon and ranch and bread"
+        }
+    ],
+    "desserts": [
+        {
+            "name": "cookie",
+            "ingredients": ["chocolate", "sugar", "flour", "salt"],
+            "description": "chocolate chip cookies YEP"
+        },
+        {
+            "name": "ice cream",
+            "ingredients": ["ice", "cream"],
+            "description": "chocolate ice cream HELLO"
+        }
+    ],
+    "drinks": [
+        {
+            "name": "soda",
+            "ingredients": ["sugar", "water"],
+            "description": "it's soda water, taste good but bad for health"
+        },
+        {
+            "name": "beer",
+            "ingredients": ["malt", "barley", "water"],
+            "description": "beer for lunch  YES SIR"
+        }
+    ]
+}
