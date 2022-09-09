@@ -1,17 +1,17 @@
-require("dotenv").config()
-const express = require("express")
-const app = express()
-const morgan = require("morgan")
-const mongoose = require("mongoose")
-const cors = require("cors")
-const expressJwt = require("express-jwt")
-const path = require("path")
+require("dotenv").config();
+const express = require("express");
+const app = express();
+const morgan = require("morgan");
+const mongoose = require("mongoose");
+const cors = require("cors");
+const expressJwt = require("express-jwt");
+const path = require("path");
 
 const port = process.env.PORT || 8000;
 
-app.use(express.json())
-app.use(cors())
-app.use(morgan("dev"))
+app.use(express.json());
+app.use(cors());
+app.use(morgan("dev"));
 
 // mongoose.connect(process.env.MONGODB_URI,
 //     {

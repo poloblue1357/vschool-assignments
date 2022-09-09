@@ -1,8 +1,9 @@
+const mongoose = require("mongoose")
 const express = require("express")
 const commentRouter = express.Router()
 const Comment = require("../models/comment")
 const Issue = require('../models/issue')
-const mongoose = require("mongoose")
+
 
 commentRouter.get("/", (req, res, next) => {
     // console.log(req)
