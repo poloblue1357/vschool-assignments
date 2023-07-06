@@ -33,6 +33,7 @@ document.getElementById("clear-button").addEventListener("click", function() {
     left[1].textContent = ""
     right[0].textContent = ""
     right[1].textContent = ""
+    left[0].style.backgroundColor = "white"
 })
 
 document.getElementById("theme-drop-down").addEventListener("change", function() {
